@@ -29,3 +29,6 @@
 body{
     text-align:center;   
 }
+.devlabpic, #gwcpic{
+    width: 50%;
+}
